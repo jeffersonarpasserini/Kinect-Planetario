@@ -1,0 +1,57 @@
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Planetario.exe
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Planetario.pdb
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Controls.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Fusion.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.csprojResolveAssemblyReference.cache
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\MainWindow.baml
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\MainWindow.g.cs
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\App.g.cs
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario_Content.g.cs
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario_MarkupCompile.cache
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.g.resources
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.Properties.Resources.resources
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.csproj.GenerateResource.Cache
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.exe
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.pdb
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Planetario.exe
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Planetario.pdb
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Controls.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Release\Microsoft.Kinect.xml
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\MainWindow.baml
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\MainWindow.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\App.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario_Content.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario_MarkupCompile.cache
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.g.resources
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.Properties.Resources.resources
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.csproj.GenerateResource.Cache
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.exe
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.pdb
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Release\Planetario.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\Planetario.exe
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\Planetario.pdb
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Planetario.exe
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Planetario.pdb
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Microsoft.Kinect.dll
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\bin\Release\Microsoft.Kinect.xml
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\MainWindow.baml
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\MainWindow.g.cs
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\App.g.cs
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\Planetario_Content.g.cs
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\Planetario_MarkupCompile.cache
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\Planetario.g.resources
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\Planetario.Properties.Resources.resources
+C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\Planetario\Planetario\obj\Release\Planetario.csproj.GenerateResource.Cache

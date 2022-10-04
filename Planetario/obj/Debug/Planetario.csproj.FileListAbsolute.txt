@@ -1,0 +1,92 @@
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\bin\Debug\Planetario.exe
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\bin\Debug\Planetario.pdb
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\MainWindow.baml
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\MainWindow.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\App.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\Planetario_Content.g.cs
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\Planetario_MarkupCompile.cache
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\Planetario.g.resources
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\Planetario.Properties.Resources.resources
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\Planetario.csproj.GenerateResource.Cache
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\Planetario.exe
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\Planetario.pdb
+C:\Users\Rafael\Documents\Visual Studio 2012\Projects\Planetario\Planetario\obj\Debug\Planetario.csprojResolveAssemblyReference.cache
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\Planetario.exe
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\Planetario.pdb
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\bin\Debug\Planetario.exe
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\bin\Debug\Planetario.pdb
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\Planetario.csprojResolveAssemblyReference.cache
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\MainWindow.baml
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\MainWindow.g.cs
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\App.g.cs
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\Planetario_Content.g.cs
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\Planetario_MarkupCompile.cache
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\Planetario.g.resources
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\Planetario.Properties.Resources.resources
+C:\Users\Sandro\Documents\Visual Studio 2013\Projects\Planetario\Planetario\obj\Debug\Planetario.csproj.GenerateResource.Cache
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.exe
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.pdb
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\bin\Debug\Planetario.exe
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\bin\Debug\Planetario.pdb
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\MainWindow.baml
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\MainWindow.g.cs
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\App.g.cs
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario_Content.g.cs
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario_MarkupCompile.cache
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.g.resources
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.Properties.Resources.resources
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.csproj.GenerateResource.Cache
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.exe
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.pdb
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Planetario.exe
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Planetario.pdb
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.csprojResolveAssemblyReference.cache
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\MainWindow.baml
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\MainWindow.g.cs
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\App.g.cs
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario_Content.g.cs
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario_MarkupCompile.cache
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.g.resources
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.Properties.Resources.resources
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.csproj.GenerateResource.Cache
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.exe
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.pdb
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Planetario.exe
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Planetario.pdb
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\bin\Debug\Microsoft.Kinect.xml
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.csprojResolveAssemblyReference.cache
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\MainWindow.baml
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\MainWindow.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\App.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario_Content.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario_MarkupCompile.cache
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.g.resources
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.Properties.Resources.resources
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\Planetario\Planetario\obj\Debug\Planetario.csproj.GenerateResource.Cache
